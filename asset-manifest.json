@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextCompare/static/css/main.e6c13ad2.css",
+    "main.js": "/TextCompare/static/js/main.3e5b2b8f.js",
+    "static/js/453.db12c979.chunk.js": "/TextCompare/static/js/453.db12c979.chunk.js",
+    "index.html": "/TextCompare/index.html",
+    "main.e6c13ad2.css.map": "/TextCompare/static/css/main.e6c13ad2.css.map",
+    "main.3e5b2b8f.js.map": "/TextCompare/static/js/main.3e5b2b8f.js.map",
+    "453.db12c979.chunk.js.map": "/TextCompare/static/js/453.db12c979.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3e5b2b8f.js"
+  ]
+}
