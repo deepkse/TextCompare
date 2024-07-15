@@ -7,3 +7,9 @@ Designed for developers who work with code and SQL queries on a daily basis. It 
 * Version control
 * Troubleshooting
 * Documentation
+
+### `Try it`
+
+[deepkse.github.io/TextCompare](https://deepkse.github.io/TextCompare)
+
+![Text Compare](https://github.com/deepkse/deepkse/blob/main/public/images/TextCompare.png?raw=true)
